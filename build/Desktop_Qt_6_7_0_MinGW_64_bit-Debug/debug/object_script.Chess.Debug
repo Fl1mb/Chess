@@ -1,0 +1,14 @@
+debug/board.o
+debug/checker.o
+debug/fieldelement.o
+debug/figure.o
+debug/game.o
+debug/logic.o
+debug/main.o
+debug/qrc_res.o
+debug/moc_board.o
+debug/moc_checker.o
+debug/moc_fieldelement.o
+debug/moc_figure.o
+debug/moc_game.o
+debug/moc_logic.o
